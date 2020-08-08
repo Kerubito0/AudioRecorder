@@ -2,8 +2,8 @@
 //  AudioRecorderTests.swift
 //  AudioRecorderTests
 //
-//  Created by むんばい on 2020/08/06.
-//  Copyright © 2020 むんばい. All rights reserved.
+//  Created by kerubito on 2020/08/06.
+//  Copyright © 2020 kerubito. All rights reserved.
 //
 
 import XCTest
